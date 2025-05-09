@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ans Bedoor – Flutter Developer
 
-<!--
-**badobedoor/badobedoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Flutter developer with a background in education and a strong passion for building elegant and user-friendly mobile apps. I specialize in UI design and app development using Flutter, Firebase, and Figma.
 
-Here are some ideas to get you started:
+## Skills
+- Flutter & Dart
+- Firebase
+- UI/UX Design with Figma
+- State management (Provider, BLoC)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+**Real Estate App** – A full-featured app built for a real client, showcasing property listings with filters and smooth UI.
+
+**To-Do App** – A simple and clean productivity app to manage daily tasks. Focused on intuitive design and smooth performance. 
+
+## Currently
+- Looking for job opportunities as a mobile app developer
+- Enhancing my portfolio and skills
+
+Feel free to check out my work below
