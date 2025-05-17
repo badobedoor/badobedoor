@@ -1,21 +1,65 @@
-# Hi, I'm Ans Bedoor – Flutter Developer
+# Ans Ahmed Hassan Ibrahim Bedoor  
+**Flutter Developer & Educator**
 
-I'm a self-taught Flutter developer with a background in education and a strong passion for building elegant and user-friendly mobile apps. I specialize in UI design and app development using Flutter, Firebase, and Figma.
+---
 
-## Skills
-- Flutter & Dart
-- Firebase
-- UI/UX Design with Figma
-- State management (Provider, BLoC)
-- Git & GitHub
+## 📞 Contact Information
+- **Phone:** +20 102 498 0355  
+- **Email:** ansbedoor@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ansbedoor](https://www.linkedin.com/in/ansbedoor)  
+- **GitHub:** [github.com/badobedoor](https://github.com/badobedoor)  
 
-## Featured Projects
-**Real Estate App** – A full-featured app built for a real client, showcasing property listings with filters and smooth UI.
+---
 
-**To-Do App** – A simple and clean productivity app to manage daily tasks. Focused on intuitive design and smooth performance. 
+## 🎯 Professional Summary
+Self‑taught Flutter developer with 3 years of hands‑on experience building robust mobile apps. Quick learner who thrives on challenging tasks, equally effective in solo freelance projects and cross‑functional teams to deliver high‑quality solutions.
 
-## Currently
-- Looking for job opportunities as a mobile app developer
-- Enhancing my portfolio and skills
+---
 
-Feel free to check out my work below
+## 💼 Professional Experience
+**Freelance Flutter Developer**  
+Self‑employed | Jan 2022 – Present  
+- Delivered 7+ end‑to‑end Flutter projects (Real Estate, Quiz, To‑Do, Color Palette, Focus Capsules, Academy, etc.).  
+- Translated Figma designs into clean, responsive Flutter UIs.  
+- Integrated Firebase Auth, Firestore, Storage, and REST APIs.  
+- Managed state with Provider & BLoC and maintained clean, modular codebases.  
+
+---
+
+## 🎓 Education & Certifications  
+- **B.Sc. in Education, Arabic Language**  
+  Al‑Azhar University – Faculty of Islamic Sciences | 2013 – 2016  
+- **30‑Hour Flutter & Dart Course** – Udemy (2021)  
+- **CS50: Introduction to Computer Science** – HarvardX (2023)  
+
+---
+
+## 🛠️ Technical Skills
+- **Languages & Tools:** Dart, Flutter, Git/GitHub  
+- **Backend & Storage:** Firebase Auth, Firestore, Firebase Storage, REST APIs, SharedPreferences, Hive  
+- **State Management:** Provider, BLoC  
+- **UI/UX & Design:** Figma, Material Design, Responsive Layouts, Animations (Hero, Tween)  
+- **Best Practices:** Clean Architecture, Code Organization, Localization, Dark Mode  
+
+---
+
+## 🚀 Key Projects
+
+| Project                          | Duration             | Role & Technologies                                  |
+|----------------------------------|----------------------|-------------------------------------------------------|
+| **Color Harmony Generator**      | Jan 2022 – Mar 2022  | Flutter UI, CustomPainter, State Management          |
+| **Focus Capsules**               | Mar 2022 – May 2022  | Pomodoro‑style Timer, Background Execution, Firebase Auth |
+| **Color Palette App**            | May 2022 – Jun 2022  | Flutter UI, Dynamic Palette Generation, Favorites (Local Storage) |
+| **Millionaire Quiz (Religious)** | Sep 2022 – Nov 2022  | Quiz Logic, Firebase Auth, Leaderboard, Adaptive Difficulty |
+| **Aqarraty (Real Estate App)**   | Mar 2023 – Jun 2023  | Property Listings, Firebase Firestore, WhatsApp Integration |
+| **TaskZen (To‑Do App)**          | Jul 2023 – Aug 2023  | CRUD, Provider, Local Storage, Material Design        |
+| **Academy Learner**              | May 2024 – Oct 2024  | E‑learning Platform, Firebase Auth & DB, Dark Mode, Certificate Generation |
+
+---
+
+## 🌟 Volunteering & Interests
+- Board Member at “Orphan Child Care Association” – community volunteer work  
+- Continuous self‑learning and keeping up with Flutter ecosystem  
+- Passionate about crafting engaging UI/UX experiences  
+
+---
