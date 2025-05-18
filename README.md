@@ -1,5 +1,5 @@
 # Ans Ahmed Hassan Ibrahim Bedoor  
-**Flutter Developer & Educator**
+**Flutter Developer**
 
 ---
 
