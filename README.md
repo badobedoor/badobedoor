@@ -47,13 +47,13 @@ Self‑employed | Jan 2022 – Present
 
 | Project                          | Duration             | Role & Technologies                                  |
 |----------------------------------|----------------------|-------------------------------------------------------|
-| **Color Harmony Generator**      | Jan 2022 – Mar 2022  | Flutter UI, CustomPainter, State Management          |
+| **flutter-color-palette-generator**      | Jan 2022 – Mar 2022  | Flutter UI, CustomPainter, State Management          |
 | **Focus Capsules**               | Mar 2022 – May 2022  | Pomodoro‑style Timer, Background Execution, Firebase Auth |
 | **Color Palette App**            | May 2022 – Jun 2022  | Flutter UI, Dynamic Palette Generation, Favorites (Local Storage) |
-| **Millionaire Quiz (Religious)** | Sep 2022 – Nov 2022  | Quiz Logic, Firebase Auth, Leaderboard, Adaptive Difficulty |
+| **who win million** | Sep 2022 – Nov 2022  | Quiz Logic, Firebase Auth, Leaderboard, Adaptive Difficulty |
 | **Aqarraty (Real Estate App)**   | Mar 2023 – Jun 2023  | Property Listings, Firebase Firestore, WhatsApp Integration |
 | **TaskZen (To‑Do App)**          | Jul 2023 – Aug 2023  | CRUD, Provider, Local Storage, Material Design        |
-| **Academy Learner**              | May 2024 – Oct 2024  | E‑learning Platform, Firebase Auth & DB, Dark Mode, Certificate Generation |
+| **The Academy Learner**              | May 2024 – Oct 2024  | E‑learning Platform, Firebase Auth & DB, Dark Mode, Certificate Generation |
 
 ---
 
